@@ -31,6 +31,7 @@ nano = box(length=1.75, width=0.6, height=0.1, pos=vector(-2,0.1+0.1/2,0), color
 myObj = compound([bBoard, bn, nano])
 
 while True:
+    
     try:
         
         while ad.inWaiting()==0:
