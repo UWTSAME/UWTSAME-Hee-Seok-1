@@ -1,0 +1,6 @@
+This text file is crucial
+
+recall: git rebase
+	git restore .
+	git pull
+	git status
